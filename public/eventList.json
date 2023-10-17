@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "eventName": "Annual Conference 2023",
+    "eventDetails": "Join us for our annual conference featuring keynote speakers, industry experts, and thought leaders in the field. This conference promises to be a gathering of minds, with insightful presentations, panel discussions, and networking opportunities. Explore the latest trends and innovations, gain valuable insights, and connect with like-minded professionals. Don't miss this opportunity to expand your knowledge and grow your network.",
+    "image": "https://i.ibb.co/HgT08CP/download.jpg",
+    "price": 199.99,
+    "date": "2023-08-15",
+    "dayName": "Monday",
+    "place": "Grand Convention Center",
+    "companyName": "Acme Corporation",
+    "category": "Conferences and Seminars"
+  },
+  {
+    "id": "2",
+    "eventName": "Tech Expo 2023",
+    "eventDetails": "Explore the latest tech innovations and products at our technology expo. Dive deep into the world of technology with hands-on demonstrations, product showcases, and expert talks. Whether you're a tech enthusiast or a business professional, this expo has something for everyone. Discover cutting-edge solutions, network with industry leaders, and stay updated on the tech landscape.",
+    "image": "https://i.ibb.co/RzLs09k/download-1.jpg",
+    "price": 0,
+    "date": "2023-09-22",
+    "dayName": "Friday",
+    "place": "Tech Expo Center",
+    "companyName": "Tech Innovators Inc.",
+    "category": "Trade Shows and Expos"
+  },
+  {
+    "id": "3",
+    "eventName": "Team Building Retreat",
+    "eventDetails": "Enhance team cohesion through outdoor team-building activities. Take your team on an adventure retreat that combines fun and learning. Engage in team challenges, build trust, and strengthen collaboration. Our experienced facilitators will guide your team to new heights. Join us for an unforgettable experience that will transform your team dynamics.",
+    "image": "https://i.ibb.co/vd1DN7R/above-high-angle-view-of-beautiful-attractive-cheerful-positive-elegant-classy-chic-stylish-jpg-s102.jpg",
+    "price": 299.99,
+    "date": "2023-07-10",
+    "dayName": "Sunday",
+    "place": "Adventure Retreat Resort",
+    "companyName": "TeamSynergy Ltd.",
+    "category": "Team Building Workshops"
+  },
+  {
+    "id": "4",
+    "eventName": "Product Launch Showcase",
+    "eventDetails": "Be the first to see our latest product innovations and offerings. Join us for an exclusive product launch event where we unveil groundbreaking products that will revolutionize the market. Get hands-on experience, interact with product experts, and witness the future of technology. Don't miss this opportunity to stay ahead of the competition.",
+    "image": "https://i.ibb.co/y8JPz7x/Showcase-a-New-Product.jpg",
+    "price": 0,
+    "date": "2023-11-05",
+    "dayName": "Saturday",
+    "place": "Product Launch Center",
+    "companyName": "InnovateTech Solutions",
+    "category": "Product Launches"
+  },
+  {
+    "id": "5",
+    "eventName": "Corporate Strategy Meeting",
+    "eventDetails": "An exclusive meeting of corporate executives to discuss future strategies. Join top executives, decision-makers, and industry leaders for a high-level corporate strategy meeting. Gain insights into the latest industry trends, explore growth opportunities, and shape the future of your organization. This meeting is your chance to be part of strategic decision-making.",
+    "image": "https://i.ibb.co/C88sGS1/strategic-Planning1.jpg",
+    "price": 0,
+    "date": "2023-10-18",
+    "dayName": "Wednesday",
+    "place": "Executive Boardroom",
+    "companyName": "GlobalCorp Inc.",
+    "category": "Corporate Meetings"
+  },
+  {
+    "id": "6",
+    "eventName": "Annual Awards Gala",
+    "eventDetails": "Celebrate excellence and honor outstanding individuals and teams. Join us for a glamorous awards gala where we recognize and celebrate excellence in various fields. Experience a night of elegance, entertainment, and inspiration. This gala is your opportunity to applaud the achievements of individuals and teams who have made a significant impact.",
+    "image": "https://i.ibb.co/thK8fTy/2018-Gala-Wide-View-1.png",
+    "price": 149.99,
+    "date": "2023-12-09",
+    "dayName": "Friday",
+    "place": "Elegant Ballroom",
+    "companyName": "Achievement Enterprises",
+    "category": "Award Ceremonies"
+  },
+  {
+    "id": "7",
+    "eventName": "Marketing Summit 2023",
+    "eventDetails": "Join marketing professionals from around the world for knowledge sharing. The Marketing Summit 2023 is your opportunity to connect with marketing experts, industry leaders, and fellow marketers. Gain insights into the latest marketing strategies, trends, and technologies. Network with professionals who share your passion for marketing excellence.",
+    "image": "https://i.ibb.co/7KHH8D4/brown-hines-morgan.png",
+    "price": 299.99,
+    "date": "2023-09-30",
+    "dayName": "Saturday",
+    "place": "Marketing Summit Venue",
+    "companyName": "MarketingMasters Inc.",
+    "category": "Conferences and Seminars"
+  },
+  {
+    "id": "8",
+    "eventName": "Trade Expo and Networking",
+    "eventDetails": "Network with industry leaders and explore business opportunities. The Trade Expo and Networking event is your gateway to new business opportunities. Connect with industry leaders, discover innovative products and services, and expand your network. Don't miss this chance to forge valuable partnerships and grow your business.",
+    "image": "https://i.ibb.co/BqmVxdZ/guide-to-networking-at-tradeshows-pp.jpg",
+    "price": 49.99,
+    "date": "2023-08-27",
+    "dayName": "Sunday",
+    "place": "Business Expo Center",
+    "companyName": "BusinessConnect Ltd.",
+    "category": "Trade Shows and Expos"
+  },
+  {
+    "id": "9",
+    "eventName": "Leadership Workshop",
+    "eventDetails": "Enhance your leadership skills through interactive workshops and discussions. The Leadership Workshop is designed to empower you with the skills and knowledge needed to become an effective leader. Engage in interactive workshops, learn from leadership experts, and develop strategies for success. Unlock your leadership potential.",
+    "image": "https://i.ibb.co/QrNqJz4/event-leadership-workshop.jpg",
+    "price": 149.99,
+    "date": "2023-10-12",
+    "dayName": "Thursday",
+    "place": "Leadership Institute",
+    "companyName": "Leadership Dynamics Corp.",
+    "category": "Team Building Workshops"
+  },
+  {
+    "id": "10",
+    "eventName": "Product Showcase",
+    "eventDetails": "Discover the latest products and innovations from leading companies. The Product Showcase is your chance to explore cutting-edge products and innovations from top companies. Get hands-on experience, meet product experts, and stay updated on industry trends. Don't miss out on this opportunity to discover what's new.",
+    "image": "https://i.ibb.co/CBWjCGK/new-product-showcase.jpg",
+    "price": 0,
+    "date": "2023-11-15",
+    "dayName": "Wednesday",
+    "place": "Product Showcase Center",
+    "companyName": "InnovationHub Ltd.",
+    "category": "Product Launches"
+  }
+]

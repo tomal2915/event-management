@@ -1,0 +1,39 @@
+[
+    {
+      "_id": "1",
+      "_name": "John Doe",
+      "_quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "_image": "https://i.ibb.co/hyc6R6B/client-1.jpg"
+    },
+    {
+      "_id": "2",
+      "_name": "Alice Smith",
+      "_quote": "The only way to do great work is to love what you do.",
+      "_image": "https://i.ibb.co/p1qpv9f/client-2.png"
+    },
+    {
+      "_id": "3",
+      "_name": "Michael Johnson",
+      "_quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+      "_image": "https://i.ibb.co/LnY2tw8/client-3.jpg"
+    },
+    {
+      "_id": "4",
+      "_name": "Emily Brown",
+      "_quote": "Don't watch the clock; do what it does. Keep going.",
+      "_image": "https://i.ibb.co/XZkRs27/client-4.jpg"
+    },
+    {
+      "_id": "5",
+      "_name": "David Wilson",
+      "_quote": "The road to success and the road to failure are almost exactly the same.",
+      "_image": "https://i.ibb.co/HhtHv3k/client-5.jpg"
+    },
+    {
+      "_id": "6",
+      "_name": "Sophia Lee",
+      "_quote": "Success usually comes to those who are too busy to be looking for it.",
+      "_image": "https://i.ibb.co/M9Hd9Kx/client-6.jpg"
+    }
+  ]
+  
